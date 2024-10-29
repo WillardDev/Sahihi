@@ -82,3 +82,6 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # configurations
 /sahihi_backend/src/config
+
+# node modules
+node_modules
