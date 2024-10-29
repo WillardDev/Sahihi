@@ -1,0 +1,84 @@
+# compiled output
+/sahihi_backend/dist
+/sahihi_backend/node_modules
+/sahihi_backend/build
+
+# Logs
+/sahihi_backend/logs
+/sahihi_backend/*.log
+/sahihi_backend/npm-debug.log*
+/sahihi_backend/pnpm-debug.log*
+/sahihi_backend/yarn-debug.log*
+/sahihi_backend/yarn-error.log*
+/sahihi_backend/lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+/sahihi_backend/coverage
+/sahihi_backend/.nyc_output
+
+# IDEs and editors
+/sahihi_backend/.idea
+/sahihi_backend/.project
+/sahihi_backend/.classpath
+/sahihi_backend/.c9/
+/sahihi_backend/*.launch
+/sahihi_backend/.settings/
+/sahihi_backend/*.sublime-workspace
+
+# IDE - VSCode
+/sahihi_backend/.vscode/*
+/sahihi_backend/!.vscode/settings.json
+/sahihi_backend/!.vscode/tasks.json
+/sahihi_backend/!.vscode/launch.json
+/sahihi_backend/!.vscode/extensions.json
+
+# dotenv environment variable files
+/sahihi_backend/.env
+/sahihi_backend/.env.development.local
+/sahihi_backend/.env.test.local
+/sahihi_backend/.env.production.local
+/sahihi_backend/.env.local
+
+# temp directory
+/sahihi_backend/.temp
+/sahihi_backend/.tmp
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+.DS_Store
+/sahihi_frontend/node_modules
+/sahihi_frontend//dist
+
+
+# local env files
+/sahihi_frontend/.env.local
+/sahihi_frontend/.env.*.local
+
+# Log files
+/sahihi_frontend/npm-debug.log*
+/sahihi_frontend/yarn-debug.log*
+/sahihi_frontend/yarn-error.log*
+/sahihi_frontend/pnpm-debug.log*
+
+# Editor directories and files
+/sahihi_frontend/.idea
+/sahihi_frontend/.vscode
+/sahihi_frontend/*.suo
+/sahihi_frontend/*.ntvs*
+/sahihi_frontend/*.njsproj
+/sahihi_frontend/*.sln
+/sahihi_frontend/*.sw?
+
+
+# configurations
+/sahihi_backend/src/config
